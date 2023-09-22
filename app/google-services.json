@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "702650530111",
+    "project_id": "jetpackonlyfirestore",
+    "storage_bucket": "jetpackonlyfirestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702650530111:android:024c125d7067c125f97b8a",
+        "android_client_info": {
+          "package_name": "com.example.jetpackfirestoregit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEcBczHVQ22-z1XV0qYJ3E6-gcYZR0CyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

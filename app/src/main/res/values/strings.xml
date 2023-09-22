@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JetpackFirestoreGit</string>
+    <string name="title_activity_snapshot_listener">SnapshotListener</string>
+</resources>
